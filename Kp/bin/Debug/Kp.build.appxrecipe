@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>OLAITAN-TAYO-PC</Machine>
+    <WindowsUser>Olaitan Adetayo</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>42f90adc-5b21-4521-8ed2-d6856a5a943e</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\Kp.exe">
+      <PackagePath>Kp.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\broAdeola.jpg">
+      <PackagePath>Assets\broAdeola.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\jfod.jpg">
+      <PackagePath>Assets\jfod.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\ramadan.jpg">
+      <PackagePath>Assets\ramadan.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\my-position.png">
+      <PackagePath>Assets\my-position.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\addcontactPage.xbf">
+      <PackagePath>addcontactPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\AlertCasePage.xbf">
+      <PackagePath>AlertCasePage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\ShowLocationPage.xbf">
+      <PackagePath>ShowLocationPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\SignIn.xbf">
+      <PackagePath>SignIn.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\SignUp.xbf">
+      <PackagePath>SignUp.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\Kp.xr.xml">
+      <PackagePath>Kp.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Olaitan Adetayo\Documents\Visual Studio 2013\Projects\Kp\Kp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
